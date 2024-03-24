@@ -1,0 +1,23 @@
+{
+  "name": "sit725-2021-t2-prac",
+  "version": "1.0.0",
+  "description": "sit 725 T2 week 2 prac",
+  "main": "server.js",
+  "scripts": {
+  "start": "node server.js"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/zainulabidins22/sit725-2023-t1-prac2.git"
+  },
+  "author": "Muhammad Zain Ul Abidin",
+  "license": "MIT",
+  "bugs": {
+  "url": "https://github.com/zainulabidins22/sit725-2023-t1-prac2.git"
+  },
+  "homepage": "https://github.com/zainulabidins22/sit725-2023-t1-prac2.git",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+  }
+  
